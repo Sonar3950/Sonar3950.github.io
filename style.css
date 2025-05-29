@@ -61,6 +61,8 @@ footer a {
     align-items: center;
     padding: 50px 50px;
     margin-top: 100px;
+}
+.imgs:hover {
     animation: 
     imganim 2s ease-in-out 1s infinite alternate;
 }
